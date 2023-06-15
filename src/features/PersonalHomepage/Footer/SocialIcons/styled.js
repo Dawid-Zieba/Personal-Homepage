@@ -23,10 +23,6 @@ export const Link = styled.a`
     }
 `;
 
-export const styleIcon = Icon => styled(Icon)`
+export const styledIcon = Icon => styled(Icon)`
     height: auto;
-
-    @media(max-width: ${({ theme }) => theme.breakpoint.mobileMax}px) {
-        width: 32px;
-    }
 `;
