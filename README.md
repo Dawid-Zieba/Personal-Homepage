@@ -1,3 +1,17 @@
+# Portfolio homepage
+This is my web summary with information on what technologies I've learned so far, what I want to learn in the near future and all the links to my Social Media - just in case you want to contact me ✉.
+
+This page illustrates what I've learned so far from the YouCode course. 👨‍💻
+
+Feel free to take a look 👇
+# How does it looks like?
+![PersonalScreen Gif](/PersonalScreen.gif)
+# Demo Version
+
+# Used technologies, languages
+<p align="center"><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html" alt="html5"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript"/></a>  <a href="https://styled-components.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=styledcomponents" alt="styledcomponents"/></a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react"/>  </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redux" alt="redux"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=webpack" alt="webpack"/> </a> <a href="https://www.figma.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=figma" alt="figma"/> </a> </p>
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
