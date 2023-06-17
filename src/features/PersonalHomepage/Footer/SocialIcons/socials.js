@@ -1,5 +1,5 @@
 import { styledIcon } from "./styled";
-import { ReactComponent as FacebookIcon} from "./icons/github.svg";
+import { ReactComponent as FacebookIcon} from "./icons/facebook.svg";
 import { ReactComponent as InstagramIcon} from "./icons/instagram.svg";
 import { ReactComponent as GithubIcon} from "./icons/github.svg";
 import { ReactComponent as LinkedInIcon} from "./icons/linkedln.svg";
