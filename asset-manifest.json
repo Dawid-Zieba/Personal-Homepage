@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/Personal-Homepage/static/js/main.5c684d3b.js",
+    "static/js/787.32bd94c5.chunk.js": "/Personal-Homepage/static/js/787.32bd94c5.chunk.js",
+    "static/media/Ja.jpg": "/Personal-Homepage/static/media/Ja.a72501f11d289e6f74a4.jpg",
+    "static/media/instagram.svg": "/Personal-Homepage/static/media/instagram.7bad0c3cde2835fa701a1538d5bc741b.svg",
+    "static/media/github.svg": "/Personal-Homepage/static/media/github.3493b6040fb6a2dda1c577dec10a9db1.svg",
+    "static/media/sun.svg": "/Personal-Homepage/static/media/sun.2da5ce91a4389b5964212b6824a99e60.svg",
+    "static/media/linkedln.svg": "/Personal-Homepage/static/media/linkedln.5fac59fc662b2a089327e72909eb3444.svg",
+    "static/media/error.svg": "/Personal-Homepage/static/media/error.5aa740a4e01a48bdaf667e2b02285f1d.svg",
+    "index.html": "/Personal-Homepage/index.html",
+    "static/media/message.svg": "/Personal-Homepage/static/media/message.5e558b62a84fe4cffa3432a34465819f.svg",
+    "static/media/facebook.svg": "/Personal-Homepage/static/media/facebook.f266fa5079fb10e3e6344e3b9358ce04.svg",
+    "static/media/spinner.svg": "/Personal-Homepage/static/media/spinner.f0cf9f6aef365567ad9b9a0d34b8b760.svg",
+    "main.5c684d3b.js.map": "/Personal-Homepage/static/js/main.5c684d3b.js.map",
+    "787.32bd94c5.chunk.js.map": "/Personal-Homepage/static/js/787.32bd94c5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.5c684d3b.js"
+  ]
+}
