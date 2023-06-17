@@ -1,4 +1,4 @@
-export const colorName = {
+const colorName = {
     white: "#FFFFFF",
     whitelilac: "#FBFBFE",
     anakiwa: "#8CC2FF",
@@ -18,7 +18,7 @@ export const colorName = {
     black: "#252525",
 };
 
-export const commonTheme = {
+const commonTheme = {
     breakpoint: {
         mobileMax: 767,
         desktopMax: 1199,
