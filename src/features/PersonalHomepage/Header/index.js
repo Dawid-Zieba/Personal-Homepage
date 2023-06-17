@@ -8,8 +8,7 @@ export const Header = () => (
             <ThisIs>This is</ThisIs>
             <Name>Dawid Zięba</Name>
             <Content>
-            👨🏻‍💻  I’m a passionate Frontend Developer in love with React,
-                currently looking for new job opportunities.
+            👨🏻‍💻  I'm a starting Frontend Developer and I especially like to program with React, currently I'm looking for new job to improve my skills and learn something new.
             </Content>
             <StyledButtonLink href="mailto:d.zieba2@gmail.com" title="d.zieba2@gmail.com">
                 <HireMeIcon />
