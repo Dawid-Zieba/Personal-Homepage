@@ -22,9 +22,10 @@ export const Wrapper = styled.header`
 `;
 
 export const Image = styled.img`
-    max-width: 384px;
-    width: 30vw;
-
+    border-radius: 30%;
+    margin-top: 20px;
+    max-width: 398px;
+    width: 50vw;
     @media (max-width: ${({ theme }) => theme.breakpoint.mobileMax}px) {
         min-width: 133px;
     }
